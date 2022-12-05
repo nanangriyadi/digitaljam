@@ -1,0 +1,40 @@
+body {
+    background-image:url("1077386-free-download-scenic-backgrounds-1920x1080.jpg");
+    margin:0;
+    height:100vh;
+    width:100vw;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+h1{
+    
+    text-align:center;
+    position: fixed;
+    color:white;    
+    font-family:cursive;
+    font-size:400px;
+    
+}
+h2{
+    
+    text-align:center;
+    position: fixed;
+    opacity: 10;
+    bottom: 200px;
+    color:rgb(247, 249, 251);    
+    font-family:radioland;
+    font-size:100px;
+    
+}
+h3{
+    
+    text-align:center;
+    position: fixed;
+    opacity: 10;
+    bottom: 150px;
+    color:rgb(233, 242, 236);
+    font-family:'Times New Roman', Times, serif;
+    font-size:30px;
+    
+}
